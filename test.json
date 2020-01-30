@@ -1,0 +1,9 @@
+{
+  "fruits": {
+    "apple": {
+      "pieces": 11,
+      "cost": 230,
+      "description": "silver"
+    }
+  }
+}
